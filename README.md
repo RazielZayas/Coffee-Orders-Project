@@ -12,10 +12,8 @@ This project aims to build an interactive **Microsoft Excel** dashboard that all
 - **Data Visualization**
 
 ## 🔗 Links
-[GitHub Repository]()
+[GitHub Repository](https://github.com/RazielZayas/Coffee-Orders-Project/blob/main/coffeeOrdersData.xlsx)
 
-## 🗺️ Navigation
-- Navigation bar included to make it easy to access different sections of the project.
 
 ## 📊 Summary
 
