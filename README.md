@@ -30,9 +30,6 @@ This project involves all stages of data analysis in Excel, from **data collecti
 - Timeline filter for date-based insights
 
 ---
-Aquí tienes algunos insights basados en lo que se observa en el dashboard:
-
----
 
 ## Insights from the Coffee Sales Dashboard
 
